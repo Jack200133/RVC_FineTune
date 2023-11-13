@@ -1,0 +1,7 @@
+numpy
+torch
+faiss-gpu # o faiss-gpu si quieres la versión con soporte para GPU
+gradio
+soundfile
+fairseq
+scikit-learn
